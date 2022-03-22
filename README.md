@@ -1,9 +1,9 @@
 # RecRoomAudioSlicer
 A jython JES program designed to quickly and easily slice audio files into 30 second segments, so they can more easily be added to Rec Room with audio samplers!
 
-Rec Room Audio Slicer v1.1
-Created by StormyDoesVR
-v1.0 Finalized 4/21/2021
+Rec Room Audio Slicer v1.1</br>
+Created by StormyDoesVR</br>
+v1.0 Finalized 4/21/2021</br>
 
 #
 - Instructions -
