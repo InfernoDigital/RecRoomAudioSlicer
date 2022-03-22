@@ -18,5 +18,5 @@ A jython JES program designed to quickly and easily slice audio files into 30 se
 #
 # Step 4. Load and run the program to create your clips!
 #
-# Then follow any youtube tutorial on how to record those clips into Rec Room and enjoy!
+# Step 5. Visit the tutorial room at the Rec Room Audio Shop to learn how to import those clips into Rec Room!
 #
